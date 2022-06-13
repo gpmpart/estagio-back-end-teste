@@ -10,7 +10,7 @@ Dada a função abaixo que retorna a soma de 3 valores:
 ```
 function soma(int $parametro1, int $parametro2, int $parametro3) 
 {
-	return $parametro1 + $parametro2 + $parametro3;
+    return $parametro1 + $parametro2 + $parametro3;
 }
 ```
 Para testar, no STDIN você pode colocar quaisquer valores separados por vírgula:
