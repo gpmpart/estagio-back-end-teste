@@ -1,0 +1,2 @@
+## Questão 2 - Par/Ímpar & 10%
+Nessa questão, temos duas funções: uma deve retornar se o número é ímpar (odd) ou par (even) - a outra deve retornar o valor de 10% do número. Considere que sempre serão entregues números inteiros e positivos para as funções.

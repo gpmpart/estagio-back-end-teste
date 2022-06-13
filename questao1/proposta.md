@@ -1,0 +1,2 @@
+## Questão 1 - Triângulo
+O algoritmo recebe o tamanho dos dois menores lados de um triângulo retângulo e deve retornar o valor da hipotenusa do mesmo. Os números dos tamanhos dos lados são sempre inteiros e positivos.

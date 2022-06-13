@@ -1,0 +1,2 @@
+## Questão 3 - Valor da coordenada
+Nessa questão, o objetivo é fazer com que o programa retorne o valor de um item dadas duas coordanadas, y e x. O programa deve retornar uma mensagem de erro caso o valor de y ou de x informados não estejam presentes na matriz de valores. Portanto, caso o x informado seja inválido, o programa deve retornar "x inválido", e "y inválido" para o caso da coordenada y. Considere que só serão entregues números inteiros e positivos para o programa.
